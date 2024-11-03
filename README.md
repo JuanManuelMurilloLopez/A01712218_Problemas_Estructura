@@ -3,7 +3,7 @@
 ## Perfil LeetCode
 https://leetcode.com/u/JuanMm1245/
 
-##Problemas
+## Problemas
 
 ### Problema 1: LeetCode 2785. Sort Vowels in a String
 https://leetcode.com/problems/sort-vowels-in-a-string/description/ 
